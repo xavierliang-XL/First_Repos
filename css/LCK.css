@@ -1,0 +1,38 @@
+body{   
+    background-color: black;
+}
+
+div>h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    margin-left:15px;
+    float:right;
+    transform:translateY(10%);
+}
+
+div>p{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:20px;
+    text-align: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.geng-intro,.t1-intro,.dk-intro,.drx-intro{
+    border-bottom: 10px solid white;
+    border-right: 50px solid white;
+    border-left: 50px solid white;
+    background-color: white;
+    width:85%;
+    height:70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10px;
+}
+
+.title{
+    width:100%;
+    background-color: white;
+}
+

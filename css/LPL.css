@@ -1,0 +1,42 @@
+body{   
+    background-image: linear-gradient(to right,red,orange,white,orange,red);
+}
+
+div>h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    margin-left:15px;
+    float:right;
+    transform:translateY(10%);
+}
+
+div>p{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:20px;
+    text-align: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+.tes-intro,.rng-intro,.jdg-intro,.edg-intro{
+    border-bottom: 10px solid #000000;
+    border-right: 50px solid black;
+    border-left: 50px solid black;
+    background-color: black;
+    width:85%;
+    height:70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10px;
+    opacity:0.95;
+}
+
+
+
+
+.title{
+    width:100%;
+    background-color: white;
+}
