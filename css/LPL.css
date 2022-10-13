@@ -1,5 +1,12 @@
-body{   
+/* body{   
     background-image: linear-gradient(to right,red,orange,white,orange,red);
+} */
+
+html {
+    width: 100%;
+    height: 100%;
+    background: url('../img/champions2.jpg') no-repeat center center fixed; 
+    background-size: cover;
 }
 
 div>h1{
